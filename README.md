@@ -19,17 +19,17 @@ Enhance customer discount strategies, facilitate consumer negotiations, and iden
 
 ## Finance Report
 ## Project Objectives:
-## Profit and Loss (P&L) Reports:
+**1.** Profit and Loss (P&L) Reports:
 
-- [x]_[By Fiscal Year](https://github.com/neerajdas63/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
-- [x]_[By Months](https://github.com/neerajdas63/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
-- [x]_[By Markets](https://github.com/neerajdas63/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+- [x] _[By Fiscal Year](https://github.com/neerajdas63/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
+- [x] _[By Months](https://github.com/neerajdas63/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+- [x] _[By Markets](https://github.com/neerajdas63/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-Purpose of Finance Analytics:
+**2.** Purpose of Finance Analytics:
 Evaluate financial performance, support decision-making, and communicate effectively with stakeholders.
 
-Importance of Analyzing Finance Data:
+**3.** Importance of Analyzing Finance Data:
 Benchmark against industry standards, aid in budgeting, and forecast future financial trends.
 
-Role of Reports:
+**4.** Role of Reports:
 Align financial planning with strategic goals and build confidence in the organization's financial outlook.
